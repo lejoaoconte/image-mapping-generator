@@ -1,7 +1,16 @@
 {
   "name": "image-mapping-generator",
+  "author": {
+    "name": "João Pedro",
+    "email": "lejoaoconte@gmail.com",
+    "url": "https://github.com/lejoaoconte"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lejoaoconte/image-mapping-generator"
+  },
   "private": false,
-  "version": "1.0.8",
+  "version": "1.0.9",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
