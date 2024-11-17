@@ -1,1 +1,1 @@
-export const teste = "teste";
+export { Mapper } from "./src/components/Mapper";
